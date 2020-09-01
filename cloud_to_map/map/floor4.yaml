@@ -1,0 +1,7 @@
+image: floor4.png
+resolution: 0.500000
+origin: [-8.47501, -32.7685, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+

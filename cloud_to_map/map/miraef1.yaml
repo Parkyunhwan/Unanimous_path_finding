@@ -1,0 +1,7 @@
+image: miraef1.png
+resolution: 0.500000
+origin: [44.6249, 140.852, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+

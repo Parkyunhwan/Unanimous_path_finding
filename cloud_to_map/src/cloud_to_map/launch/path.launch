@@ -1,0 +1,7 @@
+<launch>
+
+  <node name="map_server" pkg="map_server" type="map_server" args="/home/yoonje/catkin_ws/src/cloud_to_map/map/4floor.yaml" output="screen"/>
+  <node name="connect_path" pkg="cloud_to_map" type="publish_start_goal" output="screen" />
+  <include file="$(find footstep_planner)/launch/footstep_planner_complete.launch" />  
+
+</launch>

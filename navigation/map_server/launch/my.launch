@@ -1,0 +1,10 @@
+<launch>
+  <param name="/use_sim_time" value="true"/>
+
+  <!-- Publishes the voxel grid to rviz for display -->
+  <arg name="map_file" default="/home/yunan/my_map.yaml"/>
+  <node pkg="map_server" type="map_server" name="map_server1" args="$(arg map_file)" output="screen">
+    <remap from="map" to="costmap/map"/>
+  </node>
+
+</launch>
