@@ -49,7 +49,14 @@ rosrun pcl_ros pcd_to_pointcloudcopy /home/yunan/Desktop/map2d3d/launchmap/hn_mi
  
  [![unanimous_shot](https://user-images.githubusercontent.com/47476276/92101304-e614c200-ee17-11ea-809f-5a0835ee8205.png)](https://youtu.be/Q69kimFzcJ0) 
  
- * https://www.youtube.com/watch?v=rWDjQ4hLrtE&t=14s
+🢁 Click to watch the video!
+
+### Other Reference
+
  * https://scatch.ssu.ac.kr/%eb%89%b4%ec%8a%a4%ec%84%bc%ed%84%b0/%ec%a3%bc%ec%9a%94%eb%89%b4%ec%8a%a4/page/3/?slug=20058-2&f&keyword
  * http://www.dhnews.co.kr/news/articleView.html?idxno=116170
  * http://ibook.ssu.ac.kr/Viewer/Q9ZQBTSP2694 (6p)
+ 
+## Github link about 3D map making 
+ 
+  * https://github.com/ChoiWooCheol/Unanimous
